@@ -1,0 +1,1 @@
+manual_scan_results = main_manual_tests()

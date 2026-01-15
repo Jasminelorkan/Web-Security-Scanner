@@ -1,0 +1,58 @@
+[
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-15T12:40:55.765269",
+    "report": "report_testphp.vulnweb.com_20251115_124055.txt",
+    "score": 89,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-15T10:13:24.027301",
+    "report": "report_testphp.vulnweb.com_20251115_101324.txt",
+    "score": 89,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T22:05:43.298703",
+    "report": "report_testphp.vulnweb.com_20251114_220543.txt",
+    "score": 89,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T18:03:23.917297",
+    "report": "report_testphp.vulnweb.com_20251114_180323.txt",
+    "score": 89,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T17:57:34.262321",
+    "report": "report_testphp.vulnweb.com_20251114_175734.txt",
+    "score": 100,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T17:50:29.680996",
+    "report": "report_testphp.vulnweb.com_20251114_175029.txt",
+    "score": 81,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T17:19:39.979631",
+    "report": "report_testphp.vulnweb.com_20251114_171939.txt",
+    "score": 90,
+    "class": "Critical"
+  },
+  {
+    "target": "http://testphp.vulnweb.com",
+    "time": "2025-11-14T11:17:30.731759",
+    "report": "report_testphp.vulnweb.com_20251114_111730.txt",
+    "score": 90,
+    "class": "Critical"
+  }
+]

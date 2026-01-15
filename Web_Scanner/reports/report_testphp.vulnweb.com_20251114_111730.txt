@@ -1,0 +1,48 @@
+=== Cyberpunk Async Scanner Report ===
+Target: http://testphp.vulnweb.com
+Generated: 2025-11-14T11:17:30.715731
+
+=== Server Headers ===
+Server: nginx/1.19.0
+Date: Fri, 14 Nov 2025 05:46:35 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1
+Content-Encoding: gzip
+
+=== Security Headers Check ===
+X-Frame-Options: Missing - Helps prevent clickjacking
+X-XSS-Protection: Missing - Protects against XSS
+Content-Security-Policy: Missing - Prevents script injection
+Strict-Transport-Security: Missing - Forces HTTPS
+X-Content-Type-Options: Missing - Prevents MIME-sniffing
+Referrer-Policy: Missing - Controls referrer header information
+
+=== Discovered Paths ===
+
+=== Crawled URLs ===
+http://testphp.vulnweb.com
+
+=== Parameter Map ===
+http://testphp.vulnweb.com | query_params: - | form_inputs: goButton,searchFor
+
+=== Auto Scan (safe checks) ===
+No automatic findings.
+
+=== Subdomains ===
+
+=== TLS Info ===
+TLS handshake failed or non-HTTPS.
+
+=== Banners ===
+Port 80: none
+Port 443: none
+Port 8080: none
+Port 8000: none
+
+=== Risk ===
+Score: 90 Classification: Critical
+Suggested fixes:
+ - Add CSP, HSTS, X-Frame-Options, X-Content-Type-Options.
+ - TLS missing or handshake failed.
