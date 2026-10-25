@@ -2,7 +2,7 @@ A modular Web Security Scanner built to analyze publicly accessible web applicat
 
 Features:
 Server Information Extraction
-Detects server type (e.g., Apache, Nginx)
+Detects server type (e.g., Apache, Nginx) and server header (e.g., X-Frame-Options , Content-Security-Policy)
 
 Port Scanning
 Scans common ports to identify open services
