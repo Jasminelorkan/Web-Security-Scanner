@@ -1,3 +1,0 @@
-<script>alert('XSS)</script>
-"><script>alert(1)</script>
-<IMG SRC= javascript:alert('XSS)>
