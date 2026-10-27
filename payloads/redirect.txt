@@ -1,3 +1,0 @@
-http://evil.com
-//evil.com
-///evil.com
