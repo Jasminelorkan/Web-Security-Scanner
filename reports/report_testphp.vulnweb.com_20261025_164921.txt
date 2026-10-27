@@ -1,0 +1,49 @@
+=== SECURESCAN Report ===
+Target: http://testphp.vulnweb.com
+Generated: 2026-10-25T16:49:21.306287
+
+=== Server Headers ===
+No headers.
+
+=== Security Headers Check ===
+X-Frame-Options: Missing - Helps prevent clickjacking
+Content-Security-Policy: Missing - Prevents script injection
+Strict-Transport-Security: Missing - Forces HTTPS
+X-Content-Type-Options: Missing - Prevents MIME-sniffing
+Referrer-Policy: Missing - Controls referrer header information
+
+=== Discovered Paths ===
+None found from wordlist.
+
+=== Crawled URLs ===
+
+=== Parameter Map ===
+
+=== Safe Auto Scan Results ===
+No automatic findings.
+
+=== Subdomains ===
+
+=== Banners (common ports) ===
+Port 80: none
+Port 443: none
+Port 8080: none
+Port 22: none
+
+=== Open Ports ===
+None detected (from common ports list).
+
+=== TLS Info ===
+TLS handshake failed or non-HTTPS.
+
+=== Risk & Threat Meter ===
+Score: 35 Classification: Medium
+Reasons:
+ - Missing security headers (5) — add HSTS, CSP, X-Frame-Options, X-Content-Type-Options
+ - No TLS / HTTPS or TLS handshake failed (use HTTPS).
+
+Why these matter:
+ - Missing headers allow clickjacking, XSS or content sniffing attacks.
+ - No TLS — data may be intercepted in transit.
+
+=== End of Report ===

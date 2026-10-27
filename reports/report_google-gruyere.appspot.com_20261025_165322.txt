@@ -1,0 +1,210 @@
+=== SECURESCAN Report ===
+Target: https://google-gruyere.appspot.com/
+Generated: 2026-10-25T16:53:22.254323
+
+=== Server Headers ===
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+x-cloud-trace-context: f39326d54c3712f58cce823dccc4d485
+Date: Sun, 25 Oct 2026 11:22:51 GMT
+Server: Google Frontend
+Content-Length: 11506
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+=== Security Headers Check ===
+X-Frame-Options: Missing - Helps prevent clickjacking
+Content-Security-Policy: Missing - Prevents script injection
+Strict-Transport-Security: Missing - Forces HTTPS
+X-Content-Type-Options: Missing - Prevents MIME-sniffing
+Referrer-Policy: Missing - Controls referrer header information
+
+=== Discovered Paths ===
+/robots.txt - 200
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+=== Crawled URLs ===
+https://google-gruyere.appspot.com/
+https://google-gruyere.appspot.com/#0__gruyere
+https://google-gruyere.appspot.com/#0__hackers
+https://google-gruyere.appspot.com/code/
+https://google-gruyere.appspot.com/code/?data.py
+https://google-gruyere.appspot.com/code/?gruyere.py
+https://google-gruyere.appspot.com/code/?gtl.py
+https://google-gruyere.appspot.com/code/?resoources/dump.gtl
+https://google-gruyere.appspot.com/code/?resources/dump.gtl
+https://google-gruyere.appspot.com/code/?resources/editprofile.gtl
+https://google-gruyere.appspot.com/code/?resources/error.gtl
+https://google-gruyere.appspot.com/code/?resources/feed.gtl
+https://google-gruyere.appspot.com/code/?resources/home.gtl
+https://google-gruyere.appspot.com/code/?resources/manage.gtl
+https://google-gruyere.appspot.com/code/?resources/menubar.gtl
+https://google-gruyere.appspot.com/code/?sanitize.py
+https://google-gruyere.appspot.com/part1
+https://google-gruyere.appspot.com/part1#1__about_the_code
+https://google-gruyere.appspot.com/part1#1__features_and_technologies
+https://google-gruyere.appspot.com/part1#1__reset_button
+https://google-gruyere.appspot.com/part1#1__setup
+https://google-gruyere.appspot.com/part1#1__using_gruyere
+https://google-gruyere.appspot.com/part2
+https://google-gruyere.appspot.com/part2#2__cross_site_scripting
+https://google-gruyere.appspot.com/part2#2__file_upload_xss
+https://google-gruyere.appspot.com/part2#2__more_about_xss
+https://google-gruyere.appspot.com/part2#2__reflected_xss
+https://google-gruyere.appspot.com/part2#2__reflected_xss_via_ajax
+https://google-gruyere.appspot.com/part2#2__stored_xss
+https://google-gruyere.appspot.com/part2#2__stored_xss_via_ajax
+https://google-gruyere.appspot.com/part2#2__stored_xss_via_html_attribute
+https://google-gruyere.appspot.com/part2#2__xss_challenge
+https://google-gruyere.appspot.com/part3
+https://google-gruyere.appspot.com/part3#3__client_state_manipulation
+https://google-gruyere.appspot.com/part3#3__cookie_manipulation
+https://google-gruyere.appspot.com/part3#3__cross_site_request_forgery
+https://google-gruyere.appspot.com/part3#3__cross_site_script_inclusion
+https://google-gruyere.appspot.com/part3#3__elevation_of_privilege
+https://google-gruyere.appspot.com/part3#3__more_about_preventing_xsrf
+https://google-gruyere.appspot.com/part3#3__xsrf_challenge
+https://google-gruyere.appspot.com/part3#3__xssi_challenge
+https://google-gruyere.appspot.com/part4
+https://google-gruyere.appspot.com/part4#4__code_execution
+https://google-gruyere.appspot.com/part4#4__code_execution_challenge
+https://google-gruyere.appspot.com/part4#4__data_tampering_path_traversal
+https://google-gruyere.appspot.com/part4#4__denial_of_service
+https://google-gruyere.appspot.com/part4#4__dos_overload_server
+https://google-gruyere.appspot.com/part4#4__dos_quit_server
+https://google-gruyere.appspot.com/part4#4__information_disclosure_path_traversal
+https://google-gruyere.appspot.com/part4#4__more_code_execution
+https://google-gruyere.appspot.com/part4#4__more_dos
+https://google-gruyere.appspot.com/part4#4__path_traversal
+https://google-gruyere.appspot.com/part5
+https://google-gruyere.appspot.com/part5#5__after_the_codelab
+https://google-gruyere.appspot.com/part5#5__ajax_vulnerabilities
+https://google-gruyere.appspot.com/part5#5__buffer_and_integer_overflow
+https://google-gruyere.appspot.com/part5#5__configuration_vulnerabilities
+https://google-gruyere.appspot.com/part5#5__dos_via_ajax
+https://google-gruyere.appspot.com/part5#5__information_disclosure_bug_3
+https://google-gruyere.appspot.com/part5#5__information_disclosure_config_1
+https://google-gruyere.appspot.com/part5#5__information_disclosure_config_2
+https://google-gruyere.appspot.com/part5#5__other_vulnerabilities
+https://google-gruyere.appspot.com/part5#5__phishing_via_ajax
+https://google-gruyere.appspot.com/part5#5__sql_injection
+https://google-gruyere.appspot.com/start
+https://google-gruyere.appspot.com/static/codelab.css
+
+=== Parameter Map ===
+https://google-gruyere.appspot.com/ | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/static/codelab.css | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1#1__about_the_code | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1#1__setup | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1#1__reset_button | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/#0__hackers | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/#0__gruyere | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1#1__features_and_technologies | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1#1__using_gruyere | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__stored_xss_via_html_attribute | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__stored_xss_via_ajax | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__reflected_xss_via_ajax | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__file_upload_xss | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__xss_challenge | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__stored_xss | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__cross_site_scripting | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__reflected_xss | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2#2__more_about_xss | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__cookie_manipulation | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__xsrf_challenge | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__more_about_preventing_xsrf | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__cross_site_request_forgery | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__elevation_of_privilege | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__client_state_manipulation | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__cross_site_script_inclusion | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__denial_of_service | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__data_tampering_path_traversal | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__path_traversal | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__information_disclosure_path_traversal | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3#3__xssi_challenge | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__more_dos | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__dos_quit_server | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__dos_overload_server | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__information_disclosure_config_1 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__code_execution_challenge | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__configuration_vulnerabilities | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__code_execution | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4#4__more_code_execution | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__information_disclosure_bug_3 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__ajax_vulnerabilities | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__information_disclosure_config_2 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part1 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__other_vulnerabilities | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__sql_injection | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__phishing_via_ajax | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__buffer_and_integer_overflow | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__after_the_codelab | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5#5__dos_via_ajax | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/ | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?gruyere.py | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?data.py | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?sanitize.py | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/feed.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?gtl.py | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/start | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/menubar.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/editprofile.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/manage.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part3 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/error.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part4 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part2 | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/home.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resources/dump.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/code/?resoources/dump.gtl | method: GET | query_params: - | form_inputs: -
+https://google-gruyere.appspot.com/part5 | method: GET | query_params: - | form_inputs: -
+
+=== Safe Auto Scan Results ===
+No automatic findings.
+
+=== Subdomains ===
+www.google-gruyere.appspot.com -> 192.178.177.153
+api.google-gruyere.appspot.com -> 142.250.122.153
+admin.google-gruyere.appspot.com -> 142.250.29.153
+dev.google-gruyere.appspot.com -> 142.250.193.148
+test.google-gruyere.appspot.com -> 142.250.122.153
+staging.google-gruyere.appspot.com -> 172.217.26.20
+mail.google-gruyere.appspot.com -> 192.178.158.153
+ftp.google-gruyere.appspot.com -> 142.250.122.153
+beta.google-gruyere.appspot.com -> 192.178.177.153
+portal.google-gruyere.appspot.com -> 192.178.177.153
+dashboard.google-gruyere.appspot.com -> 142.250.182.148
+shop.google-gruyere.appspot.com -> 142.250.193.52
+static.google-gruyere.appspot.com -> 142.250.193.52
+cdn.google-gruyere.appspot.com -> 192.178.177.153
+
+=== Banners (common ports) ===
+Port 80: HTTP/1.0 404 Not Found
+
+Content-Length: 272
+
+Content-Type: text/html; charset=UTF-8
+
+Date: Sun, 25 Oct 2026 11:23:05 GMT
+Port 443: none
+Port 8080: none
+Port 22: none
+
+=== Open Ports ===
+80, 443
+
+=== TLS Info ===
+Protocol: TLSv1.3 Cipher: ('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)
+Cert notAfter: None
+
+=== Risk & Threat Meter ===
+Score: 29 Classification: Low
+Reasons:
+ - Missing security headers (5) — add HSTS, CSP, X-Frame-Options, X-Content-Type-Options
+ - Discovered sensitive/interesting paths: robots.txt
+ - Other open ports: [80, 443]
+
+Why these matter:
+ - Missing headers allow clickjacking, XSS or content sniffing attacks.
+ - Open ports can expose services; ensure only required services are accessible and updated.
+
+=== End of Report ===
